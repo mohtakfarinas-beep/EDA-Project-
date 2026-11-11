@@ -18,7 +18,17 @@ Three tables in a star schema:
 - **Measures exploration:** total sales, quantity sold, average price, number of orders, products and customers
 - **Magnitude analysis:** customers, products and revenue by country, gender and category
 - **Ranking analysis:** top and bottom products and customers
-
+## Key results
+Measure	Value
+- **Total sales :**	29,356,250
+- **Quantity sold :**	60,423
+- **Average price:**	486
+- **Orders:**	27,659
+- **Products :** sold (out of 295 in the catalog)	130
+- **Customers :** (all of them placed an order)	18,484
+- **Order dates :**	2010-12-29 to 2014-01-28
+- **Countries :**	6
+- 
 ## Files
 
 - `eda_project.sql`: database and table creation, data import, then the analysis queries
