@@ -39,4 +39,4 @@ Measure	Value
 2. Change the file paths in the `LOAD DATA` commands to where your CSV files are saved.
 3. Run the creation and import block once, then the queries one by one.
 
-Note: the script starts with `DROP DATABASE IF EXISTS`, so running the whole file again resets the database.
+
